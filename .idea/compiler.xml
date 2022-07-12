@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel target="1.7">
+      <module name="LocationApplication.app" target="11" />
+      <module name="LocationApplication.mmkv" target="11" />
+      <module name="LocationApplication.mylibrary" target="11" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
